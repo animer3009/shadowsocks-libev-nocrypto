@@ -18,7 +18,6 @@ set(SS_CRYPTO_SOURCE
         aead.c
         stream.c
         base64.c
-        nocrypto.c
         )
 
 set(SS_PLUGIN_SOURCE
