@@ -31,8 +31,7 @@ crypto_src = crypto.c \
              aead.c \
              stream.c \
              ppbloom.c \
-             base64.c \
-             nocrypto.c
+             base64.c
 
 plugin_src = plugin.c
 
